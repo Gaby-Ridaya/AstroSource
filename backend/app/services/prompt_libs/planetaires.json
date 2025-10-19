@@ -1,0 +1,72 @@
+{
+  "Soleil": {
+    "titre": "☀️ Soleil — Le Cœur Rayonnant",
+    "prompt": "Create a solar sovereign seated on a throne of light, surrounded by golden mandalas and sacred lions. Byzantine mosaic halo, textures of fire silk and divine gold. The heart glows like a miniature sun, radiating solar glyphs.",
+    "style": "sacred regality, visionary iconography",
+    "texture": "noble clarity, eternal presence",
+    "mantra": "Je suis la lumière consciente."
+  },
+  "Lune": {
+    "titre": "🌙 Lune — La Mère de l’Inconscient",
+    "prompt": "A veiled priestess standing by a reflective black ocean under a silver full moon. Inspired by pre-Raphaelite mysticism and Carrington’s dreamscapes. Surrounding her: lunar glyphs, sea creatures, and sleeping children.",
+    "style": "memory, intuition, cyclic wisdom",
+    "texture": "milk, mist, mother-of-pearl",
+    "mantra": "Je me souviens du silence d’avant."
+  },
+  "Mercure": {
+    "titre": "☿ Mercure — Le Pont des Mondes",
+    "prompt": "A winged messenger moving between mirrors and labyrinths of sacred geometry. His cloak is inscribed with shifting runes.",
+    "style": "curiosity, transmission",
+    "texture": "quicksilver, code, vellum",
+    "mantra": "Je suis le verbe voyageur."
+  },
+  "Venus": {
+    "titre": "♀ Vénus — La Splendeur Aimante",
+    "prompt": "A celestial muse reclining in a rose-garden that melts into the stars. She is adorned in velvet, copper jewelry, and golden spirals.",
+    "style": "sensual peace, sacred pleasure",
+    "texture": "skin, flower, silk, honey",
+    "mantra": "Ce que j’aime devient éternel."
+  },
+  "Mars": {
+    "titre": "♂ Mars — Le Guerrier du Feu Sacré",
+    "prompt": "A red-armored warrior emerging from volcanic mists, wielding a blade inscribed with glyphs of action and will.",
+    "style": "conflict sublimé, énergie pure, acte juste",
+    "texture": "fer, braise, poussière d’étoile",
+    "mantra": "Je brûle pour créer le réel."
+  },
+  "Jupiter": {
+    "titre": "♃ Jupiter — Le Sage aux Mille Mondes",
+    "prompt": "A bearded philosopher seated in a colossal library floating among clouds, surrounded by scrolls, orbs, and astral maps.",
+    "style": "foi, expansion, bienveillance cosmique",
+    "texture": "parchemin, lumière céleste",
+    "mantra": "Tout ce qui grandit bénit."
+  },
+  "Saturne": {
+    "titre": "♄ Saturne — Le Sculpteur du Temps",
+    "prompt": "An ancient figure cloaked in black stone, carving a giant hourglass into a mountain. Byzantine austerity meets Hilma af Klint’s sacred geometries.",
+    "style": "solitude noble, responsabilité sacrée",
+    "texture": "cold grays, obsidian, white gold",
+    "mantra": "Ce que je contiens, je sanctifie."
+  },
+  "Uranus": {
+    "titre": "♅ Uranus — Le Révélateur du Futur",
+    "prompt": "A radiant figure shattering a glass temple, lightning bolts dancing in their eyes. Futuristic sacred art, cyber fractals, electric glyphs.",
+    "style": "libération, éveil, réinvention",
+    "texture": "neon blue, silver light, etheric violet",
+    "mantra": "Je défais pour libérer la vérité."
+  },
+  "Neptune": {
+    "titre": "♆ Neptune — Le Chant de l’Invisible",
+    "prompt": "A dream-being dissolving into a wave of stars, their eyes lost in an infinite ocean. Visionary surrealism meets deep spiritual art.",
+    "style": "abandon mystique, compassion universelle",
+    "texture": "brume, étoile liquide, halo bleuté",
+    "mantra": "Je suis ce que tu ne peux nommer."
+  },
+  "Pluton": {
+    "titre": "♇ Pluton — L’Alchimiste du Seuil",
+    "prompt": "A cloaked figure standing before a gate of bones and flame, holding a skull-shaped key. Behind, a phoenix rises.",
+    "style": "tension, mutation, pouvoir caché",
+    "texture": "cendre, sang, or ancien",
+    "mantra": "Je détruis pour que naisse l’essence."
+  }
+}

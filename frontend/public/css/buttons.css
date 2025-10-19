@@ -1,0 +1,19 @@
+/* buttons.css : styles pour les boutons principaux du site */
+button, .btn, .art-astro-btn {
+  background: #4fc3ff;
+  color: #1a1a40;
+  font-weight: 600;
+  padding: 0.8em 2em;
+  border-radius: 1em;
+  border: none;
+  font-size: 1.15em;
+  box-shadow: 0 2px 12px #4fc3ff55;
+  cursor: pointer;
+  transition: background 0.2s, box-shadow 0.2s, transform 0.2s;
+}
+button:hover, .btn:hover, .art-astro-btn:hover {
+  background: #6a4fcf;
+  color: #ffe066;
+  box-shadow: 0 8px 32px #6a4fcf99;
+  transform: scale(1.04);
+}

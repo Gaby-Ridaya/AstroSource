@@ -1,0 +1,53 @@
+{
+  "planetes_peintres_impressionnistes": {
+    "Soleil": {
+      "peintre": "Claude Monet",
+      "symbolique": "Lumière vibrante, rayonnement vital, impression fugace du présent, force créatrice du cœur."
+    },
+    "Lune": {
+      "peintre": "Berthe Morisot",
+      "symbolique": "Intimité sensible, clairs de lune doux, émotions fluides et couleurs pastel, féminité mystérieuse."
+    },
+    "Mercure": {
+      "peintre": "Camille Pissarro",
+      "symbolique": "Mouvements rapides, scènes vivantes, communication naturelle, palette claire et légère."
+    },
+    "Vénus": {
+      "peintre": "Pierre-Auguste Renoir",
+      "symbolique": "Volupté, beauté charnelle, atmosphères joyeuses et dorées, sensualité diffuse."
+    },
+    "Mars": {
+      "peintre": "Edgar Degas",
+      "symbolique": "Dynamisme, énergie du geste, force dans le mouvement, ombres franches et scènes de vie actives."
+    },
+    "Jupiter": {
+      "peintre": "Paul Cézanne",
+      "symbolique": "Expansion structurée, sagesse ample, architecture intérieure du paysage, monumentalité tranquille."
+    },
+    "Saturne": {
+      "peintre": "Alfred Sisley",
+      "symbolique": "Temps, structure, paysages sobres et mélancoliques, patience et constance dans la lumière du quotidien."
+    },
+    "Uranus": {
+      "peintre": "Georges Seurat",
+      "symbolique": "Innovation pointilliste, originalité méthodique, vision nouvelle de la réalité, éclats vibratoires inattendus."
+    },
+    "Neptune": {
+      "peintre": "Vincent van Gogh",
+      "symbolique": "Ondes oniriques, bleus profonds, mystère cosmique, tourbillons de l’âme, visions inspirées."
+    },
+    "Pluton": {
+      "peintre": "Paul Gauguin",
+      "symbolique": "Puissance du mystère, transformation radicale, couleurs primitives, quête de l’inconnu et force occulte."
+    },
+    "Chiron": {
+      "peintre": "Mary Cassatt",
+      "symbolique": "Tendresse blessée, guérison par la douceur, portraits intimistes, soin des liens affectifs."
+    },
+    "Noeud Nord": {
+      "peintre": "Henri-Edmond Cross",
+      "symbolique": "Destinée lumineuse, point d’évolution, recherche de nouveaux horizons colorés, chemin de l’âme."
+    }
+  },
+  "instructions": "Pour chaque planète du thème, inspirez-vous du style, de la lumière et de l’univers pictural du peintre impressionniste associé, afin de donner à l’image astrologique une vibration unique."
+}

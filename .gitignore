@@ -1,0 +1,68 @@
+# Empêche la sauvegarde de fichiers temporaires ou sensibles
+backend/app/temp/
+.env
+
+# Environnements virtuels Python
+Boogy/
+venv/
+env/
+
+# Modèles IA lourds et caches
+models/
+*.safetensors
+*.ckpt
+*.pth
+
+# Images et médias volumineux (garder seulement quelques exemples)
+app/data/
+resin/
+data/
+archives/
+*.wav
+*.mp4
+*.avi
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dépendances
+node_modules/
+*/node_modules/
+
+# Logs et temporaires
+*.log
+*.tmp
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build
+build/
+dist/
+.cache/
+
+# OS et IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Données utilisateurs personnelles SEULEMENT
+data/Utilisateurs/*/theme_*.json
+data/Utilisateurs/*/personal_*
+
+# Gardez VOS créations artistiques !
+# Vos images générées sont vos œuvres, vous pouvez les partager
+
+# Fichiers audio lourds (>50 MB seulement)
+# astro_audio.mp3 est gardé car seulement ~25 MB
+
+# Exclure seulement les très gros fichiers
+*.wav
+frontend/public/audio/*_full_*.mp3
+frontend/public/audio/*_uncompressed.*

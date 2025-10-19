@@ -1,0 +1,41 @@
+.offre.effet-astral {
+  box-shadow: 0 0 32px 8px #ffe066cc, 0 0 64px 16px #4fc3ffcc;
+  transform: scale(1.04) rotate(-1deg);
+  transition: box-shadow 0.2s, transform 0.2s;
+}
+.tarifs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2em;
+  justify-content: center;
+  margin: 3em auto;
+}
+.offre {
+  background: #232345;
+  border-radius: 1.2em;
+  box-shadow: 0 2px 12px #0005;
+  padding: 2em 1.5em;
+  width: 320px;
+  min-width: 260px;
+}
+.offre h2 { color: #ffe5a3; font-size: 1.35em; margin-bottom: .3em; }
+.offre .prix { font-size: 2em; color: #b8e7ff; margin: .6em 0; }
+.ambiences {
+  display: flex; gap: 1.2em; flex-wrap: wrap; justify-content: center; margin: 2em auto;
+}
+.ambience {
+  background: #312a5a; border-radius: .8em; padding: 1em 1.3em; font-size: 1.08em; min-width: 170px; text-align: center; color: #ecd7f6;
+}
+.galerie {
+  display: flex; gap: 1.5em; flex-wrap: wrap; justify-content: center; margin: 3em auto 2em auto;
+}
+.galerie img {
+  border-radius: .8em; box-shadow: 0 1px 8px #0008; width: 160px; height: 160px; object-fit: cover; border: 2px solid #2d2d49;
+}
+.faq { background: #22223b77; border-radius: 1em; padding: 2em; margin-top: 3em; }
+.faq h3 { color: #e5f5ff; margin-top: 0; }
+.footer { text-align: center; color: #bbb; font-size: 1em; padding: 2em 0 1em 0; margin-top: 2em; }
+@media (max-width: 900px) {
+  .tarifs { flex-direction: column; align-items: center; }
+  .galerie { flex-direction: column; align-items: center; }
+}

@@ -1,0 +1,77 @@
+{
+  "zodiac_plantes_fleurs_nombre_or": {
+    "1_Bélier": {
+      "plante": "Tulipe rouge",
+      "couleur": "Rouge vif",
+      "nombre_or": "Spirale ascendante des pétales suivant la section dorée, dynamisme de la pousse. — No humans, no animals, no creatures, no faces. Only abstract geometry, sacred forms, cosmic structures.",
+      "motif": "Tige et pétales s'enroulent en spirale φ, évoquant l'élan du commencement. — No humans, no animals, no creatures, no faces. Only abstract geometry, sacred forms, cosmic structures."
+    },
+    "2_Taureau": {
+      "plante": "Rose ancienne",
+      "couleur": "Rose tendre",
+      "nombre_or": "Disposition des pétales selon la suite de Fibonacci, cœur spiralé. — No humans, no animals, no creatures, no faces. Only abstract geometry, sacred forms, cosmic structures.",
+      "motif": "Fleur centrée sur une rosace dorée, équilibre du motif central et feuilles larges. — No humans, no animals, no creatures, no faces. Only abstract geometry, sacred forms, cosmic structures."
+    },
+    "3_Gémeaux": {
+      "plante": "Lys blanc",
+      "couleur": "Blanc pur",
+      "nombre_or": "Deux fleurs jumelles dont les pétales s’ouvrent selon une double spirale dorée. — No humans, no animals, no creatures, no faces. Only abstract geometry, sacred forms, cosmic structures.",
+      "motif": "Opposition et symétrie, lignes de tige entrecroisées, doubles spirales pour la légèreté. — No humans, no animals, no creatures, no faces. Only abstract geometry, sacred forms, cosmic structures."
+    },
+    "4_Cancer": {
+      "plante": "Lotus sacré",
+      "couleur": "Rose pâle",
+      "nombre_or": "Pétales rayonnants en étoile dorée, cœur central formé par une spirale φ. — No humans, no animals, no creatures, no faces. Only abstract geometry, sacred forms, cosmic structures.",
+      "motif": "Cercle protecteur, rayonnement doux autour du centre, composition harmonieuse. — No humans, no animals, no creatures, no faces. Only abstract geometry, sacred forms, cosmic structures."
+    },
+    "5_Lion": {
+      "plante": "Tournesol",
+      "couleur": "Jaune or",
+      "nombre_or": "Cœur en spirale de graines selon la proportion d’or, rayonnement pétales en étoile φ. — No humans, no animals, no creatures, no faces. Only abstract geometry, sacred forms, cosmic structures.",
+      "motif": "Structure solaire, multiples spirales internes et couronne majestueuse. — No humans, no animals, no creatures, no faces. Only abstract geometry, sacred forms, cosmic structures."
+    },
+    "6_Vierge": {
+      "plante": "Lavande",
+      "couleur": "Violet doux",
+      "nombre_or": "Epis allongés dont la disposition suit une progression dorée sur la tige. — No humans, no animals, no creatures, no faces. Only abstract geometry, sacred forms, cosmic structures.",
+      "motif": "Répétition ordonnée, spirale sur la tige, discrète géométrie précise. — No humans, no animals, no creatures, no faces. Only abstract geometry, sacred forms, cosmic structures."
+    },
+    "7_Balance": {
+      "plante": "Pivoine",
+      "couleur": "Rose clair",
+      "nombre_or": "Pétales superposés en couches spiralées selon la section dorée, équilibre parfait. — No humans, no animals, no creatures, no faces. Only abstract geometry, sacred forms, cosmic structures.",
+      "motif": "Rosace double, symétrie parfaite et équilibre des feuilles de part et d’autre. — No humans, no animals, no creatures, no faces. Only abstract geometry, sacred forms, cosmic structures."
+    },
+    "8_Scorpion": {
+      "plante": "Datura",
+      "couleur": "Blanc crème",
+      "nombre_or": "Fleur en trompette dont l'enroulement suit la spirale dorée, cœur mystérieux. — No humans, no animals, no creatures, no faces. Only abstract geometry, sacred forms, cosmic structures.",
+      "motif": "Enroulement hypnotique, volutes et géométrie profonde, ombres et lumière cachées. — No humans, no animals, no creatures, no faces. Only abstract geometry, sacred forms, cosmic structures."
+    },
+    "9_Sagittaire": {
+      "plante": "Iris bleu",
+      "couleur": "Bleu azur",
+      "nombre_or": "Pétales évasés disposés en éventail doré, élévation du calice vers le ciel. — No humans, no animals, no creatures, no faces. Only abstract geometry, sacred forms, cosmic structures.",
+      "motif": "Lignes verticales ascendantes, spirale discrète dans la tige et la corolle. — No humans, no animals, no creatures, no faces. Only abstract geometry, sacred forms, cosmic structures."
+    },
+    "10_Capricorne": {
+      "plante": "Capucine",
+      "couleur": "Orange brûlé",
+      "nombre_or": "Tiges rampantes et feuilles arrondies en spirale φ, fleurs s'ouvrant dans la proportion dorée. — No humans, no animals, no creatures, no faces. Only abstract geometry, sacred forms, cosmic structures.",
+      "motif": "Structure géométrique sobre, motifs de spirale sur les feuilles, sobriété élégante. — No humans, no animals, no creatures, no faces. Only abstract geometry, sacred forms, cosmic structures."
+    },
+    "11_Verseau": {
+      "plante": "Orchidée bleue",
+      "couleur": "Bleu électrique",
+      "nombre_or": "Disposition asymétrique des pétales, dessin inspiré du nombre d’or mais avec variations innovantes. — No humans, no animals, no creatures, no faces. Only abstract geometry, sacred forms, cosmic structures.",
+      "motif": "Lignes ondulées, motifs φ inattendus, géométrie créative et moderne. — No humans, no animals, no creatures, no faces. Only abstract geometry, sacred forms, cosmic structures."
+    },
+    "12_Poissons": {
+      "plante": "Nénuphar",
+      "couleur": "Blanc nacré",
+      "nombre_or": "Feuilles et fleurs flottantes disposées selon la spirale d’or, harmonie aquatique. — No humans, no animals, no creatures, no faces. Only abstract geometry, sacred forms, cosmic structures.",
+      "motif": "Cercle concentrique, spirale douce sur l’eau, reflets dorés et symétrie fluide. — No humans, no animals, no creatures, no faces. Only abstract geometry, sacred forms, cosmic structures."
+    }
+  },
+  "instructions": "Pour chaque signe, intégrer la plante ou la fleur sacrée associée. Représenter la forme, la couleur et la disposition géométrique selon le nombre d’or (φ), en adaptant le motif à la symbolique profonde du signe. — No humans, no animals, no creatures, no faces. Only abstract geometry, sacred forms, cosmic structures."
+}

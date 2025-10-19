@@ -1,0 +1,22 @@
+{
+  "description": "Prompt artistique astrologique avec référence à des peintres classiques, spirituels, romantiques et symboliques majeurs, utilisé pour générer des images astrologiques basées sur les similitudes visuelles et symboliques des thèmes astrologiques, avec une préférence subtile pour Botticelli afin d'apporter une touche personnelle élégante.",
+  "style_references": {
+    "Sandro Botticelli": "Élégance des formes, idéalisme mystique, symbolisme mythologique raffiné, délicatesse des visages.",
+    "Raphaël": "Harmonie parfaite des compositions, douceur dans les expressions, lumière sereine, symétrie céleste.",
+    "Jan Vermeer": "Lumière intime, scènes paisibles et introspectives, couleurs subtiles, réalisme silencieux.",
+    "Rembrandt": "Contraste dramatique, clair-obscur profond, textures expressives, introspection émotionnelle intense.",
+    "Le Caravage": "Rigueur du dessin, réalisme intense, lumière dramatique, compositions dynamiques.",
+    "Pierre-Auguste Renoir": "Couleurs vibrantes, joie de vivre, douceur et sensualité des formes, ambiance romantique.",
+    "William Blake": "Vision spirituelle, symbolisme mystique, intensité visionnaire, profondeur métaphysique.",
+    "Caspar David Friedrich": "Paysages spirituels, contemplation romantique, solitude métaphysique, lumière intérieure."
+  },
+  "astrological_visual_detection": "Détecter automatiquement la correspondance visuelle et symbolique des éléments astrologiques (signes, planètes, maisons, aspects) avec les styles spécifiques de ces peintres, en donnant subtilement priorité au style de Botticelli pour apporter une élégance et un idéalisme mystique.",
+  "examples": {
+    "Sun in Scorpio, House 8": "Rembrandt (intensité émotionnelle, clair-obscur)",
+    "Moon in Sagittarius, House 9": "Raphaël (idéalisme, harmonie spirituelle)",
+    "Venus in Scorpio, House 8": "Botticelli (symbolisme mythologique, délicatesse)",
+    "Jupiter in Pisces, House 12": "Vermeer (mystère, introspection, lumière subtile)"
+  },
+  "instructions": "Générer une image astrologique en utilisant les styles des peintres indiqués comme référence, en s'appuyant sur la nature profonde des symboliques astrologiques détectées. Chaque planète, signe et maison devra être représentée visuellement selon le peintre dont le style correspond le mieux à sa symbolique astrologique, avec une légère préférence pour Botticelli lorsque le choix artistique est ambigu ou équivalent."
+}
+

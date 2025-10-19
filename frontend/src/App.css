@@ -1,0 +1,161 @@
+/* STYLE SIMPLE QUI MARCHE ! */
+.app-container {
+  min-height: 100vh;
+  background: #0a1833;
+  color: white;
+  padding: 20px;
+}
+
+/* NAVIGATION PRINCIPALE */
+.main-navigation {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 30px;
+  padding: 20px 0;
+}
+
+.nav-btn {
+  padding: 12px 30px;
+  background: #1a2744;
+  border: 2px solid #00cfff;
+  border-radius: 25px;
+  color: #00cfff;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-decoration: none;
+}
+
+.nav-btn:hover {
+  background: #00cfff;
+  color: #0a1833;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(0, 207, 255, 0.3);
+}
+
+.nav-btn.active {
+  background: linear-gradient(45deg, #00cfff, #00e5ee);
+  color: #0a1833;
+  border-color: #00e5ee;
+  box-shadow: 0 8px 20px rgba(0, 207, 255, 0.4);
+}
+
+.main-content {
+  display: flex;
+  gap: 40px;
+  max-width: 1800px;
+  margin: 0 auto;
+}
+
+/* FORMULAIRE À GAUCHE */
+.left-panel {
+  flex: 1;
+  max-width: 500px;
+}
+
+.left-panel h1 {
+  color: #00cfff;
+  margin-bottom: 30px;
+  font-size: 2.5em;
+}
+
+.left-panel form div {
+  margin-bottom: 20px;
+}
+
+.left-panel label {
+  display: block;
+  margin-bottom: 5px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.left-panel input {
+  width: 100%;
+  padding: 12px;
+  border: 2px solid #00cfff;
+  border-radius: 8px;
+  background: #1a2744;
+  color: white;
+  font-size: 16px;
+}
+
+.left-panel input:focus {
+  outline: none;
+  border-color: #00e5ee;
+  box-shadow: 0 0 10px rgba(0, 229, 238, 0.3);
+}
+
+.left-panel button {
+  width: 100%;
+  padding: 15px;
+  background: linear-gradient(45deg, #00cfff, #00e5ee);
+  border: none;
+  border-radius: 8px;
+  color: #0a1833;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.left-panel button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgba(0, 207, 255, 0.3);
+}
+
+.left-panel button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* SVG À DROITE */
+.right-panel {
+  flex: 2;
+  min-height: 600px;
+  background: #1a2744;
+  border-radius: 12px;
+  padding: 20px;
+  border: 2px solid #00cfff;
+}
+
+.right-panel h3 {
+  color: #00cfff;
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 1.8em;
+}
+
+/* AFFICHAGE SVG OPTIMISÉ - COULEURS NATIVES PRÉSERVÉES */
+.svg-display {
+  width: 100%;
+  height: auto;
+  background: white;
+  border-radius: 8px;
+  padding: 10px;
+  overflow: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.svg-display svg {
+  width: 100%;
+  height: auto;
+  max-height: 700px;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+/* RESPONSIVE */
+@media (max-width: 1200px) {
+  .main-content {
+    flex-direction: column;
+  }
+
+  .left-panel {
+    max-width: 100%;
+  }
+}

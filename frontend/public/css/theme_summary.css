@@ -1,0 +1,52 @@
+/* theme_summary.css : styles pour le panneau résumé du thème astrologique */
+.theme-summary-panel {
+  position: absolute;
+  top: 40px;
+  right: 24px;
+  width: 260px;
+  background: #181818e0;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px #0006;
+  padding: 18px 12px;
+  color: #fff;
+  font-size: 0.98em;
+  z-index: 10;
+}
+.theme-summary-title {
+  text-align: center;
+  font-size: 1.15em;
+  margin-bottom: 10px;
+  color: #ffe066;
+}
+.theme-summary-row {
+  margin-bottom: 8px;
+}
+.theme-summary-hr {
+  border: 0;
+  border-top: 1px solid #ffe066;
+  margin: 10px 0;
+}
+.theme-interpretation {
+  margin-top: 18px;
+  background: #fffbe6;
+  color: #222;
+  border: 1px solid #ffe066;
+  border-radius: 8px;
+  padding: 10px;
+  font-size: 0.97em;
+  min-height: 60px;
+  box-shadow: 0 1px 6px #ffe06655;
+}
+.roue-error {
+  display: none;
+  color: #ff6666;
+  font-weight: bold;
+}
+.roue-fallback {
+  display: none;
+  color: #ffe066;
+}
+.themes-list {
+  max-width: 900px;
+  margin: 24px auto 12px auto;
+}

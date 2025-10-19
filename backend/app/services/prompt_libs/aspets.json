@@ -1,0 +1,79 @@
+{
+  "Conjonction": {
+    "titre": "☌ Conjonction — Le Point d’Incandescence",
+    "prompt": "Two celestial beings fused in a spiral of light and darkness, indistinguishable yet distinct. A glowing mandala forms around them, symbol of unity and tension.",
+    "style": "mystical fusion, sacred geometry",
+    "texture": "feu dense, halo vibrant, fusion d’étoffe",
+    "mantra": "Deux voix, un feu."
+  },
+  "Trigone": {
+    "titre": "△ Trigone — Le Souffle Harmonique",
+    "prompt": "Three floating figures connected by golden threads, forming a perfect triangle in the night sky. Each holds a glowing orb representing gifts and flow.",
+    "style": "grâce fluide, inspiration",
+    "texture": "vent, or, plumes",
+    "mantra": "Ce qui s’offre circule."
+  },
+  "Carre": {
+    "titre": "□ Carré — Le Croisement Sacré",
+    "prompt": "Un coffre caché dans la lumière, entouré de symboles de chance et d’abondance. Une figure découvre un trésor intérieur, baigné d’or et de nacre.",
+    "style": "abondance, harmonie secrète",
+    "texture": "lumière dorée, nacre, soie",
+    "mantra": "Je découvre le trésor qui m’habite."
+  },
+  "Sextile": {
+    "titre": "⚹ Sextile — Le Passage Subtil",
+    "prompt": "Two figures face each other across a sacred crossroad, each holding a staff carved with opposing glyphs. Between them, sparks fly.",
+    "style": "mythic confrontation, dynamic tension",
+    "texture": "pierre, feu, métal vivant",
+    "mantra": "Ce qui résiste enseigne."
+  },
+  "Opposition": {
+    "titre": "☍ Opposition — Le Miroir du Défi",
+    "prompt": "Two staircases of light curve toward one another, guiding two figures toward a shared sphere of resonance. The setting is a visionary city of ether and intention.",
+    "style": "encouragement intérieur, croissance douce",
+    "texture": "soie astrale, nacre, murmure",
+    "mantra": "Ce qui m’appelle m’ouvre."
+  },
+  "Points_Karmiques": {
+    "titre": "🌒 POINTS KARMQUES & ARCHÉTYPES OCCULTES",
+    "prompt": "Two figures back to back, staring into twin mirrors where they see one another. A split temple, one side shadow, the other light.",
+    "style": "symbolic duality, intense introspection",
+    "texture": "glace noire, pierre blanche, silence tendu",
+    "mantra": "Ce qui me fait face me révèle."
+  },
+  "Noeud_Nord": {
+    "titre": "☊ Nœud Nord — Le Chemin d’Évolution",
+    "prompt": "A traveler climbs a staircase suspended among stars, toward a radiant, unknown citadel. Behind them, shadowed memories fade into fog.",
+    "style": "quête initiatique",
+    "texture": "brume, or éthéré, étoffe d’avenir",
+    "mantra": "Je m’avance vers ce que je n’ai jamais été."
+  },
+  "Noeud_Sud": {
+    "titre": "☋ Nœud Sud — Le Souvenir des Vies Passées",
+    "prompt": "An ancient archive of symbols, where a lone figure caresse des objets oubliés, pleins de mémoire et de nostalgie. Serpents endormis, cartes effacées.",
+    "style": "saturnienne douce-amère",
+    "texture": "cuir usé, poussière d’or, silence ancestral",
+    "mantra": "Je viens d’un ailleurs familier."
+  },
+  "Chiron": {
+    "titre": "⚷ Chiron — Le Guérisseur Brisé",
+    "prompt": "A centaure agenouillé dans une vallée sacrée, sa blessure irradie une lumière douce. Autour de lui, herbes médicinales, astres penchés.",
+    "style": "alchimique, légende",
+    "texture": "chair étoilée, larmes-lumière",
+    "mantra": "Je guéris ce que je porte."
+  },
+  "Lilith": {
+    "titre": "⚸ Lilith — L’Ombre Sublime",
+    "prompt": "Une prêtresse vêtue de noir et d’étoiles, dans une cathédrale renversée. Autour d’elle, des corbeaux, des lunes noires, des fruits défendus.",
+    "style": "gothique sacré, mystique féminine",
+    "texture": "velours sombre, miroir fêlé, peau nue",
+    "mantra": "Je suis l’interdit qui libère."
+  },
+  "Part_de_Fortune": {
+    "titre": "⚚ Part de Fortune — Le Trésor Caché",
+    "prompt": "Une salle circulaire dorée, au fond d’un labyrinthe d’eau. Une lumière pure tombe du plafond sur un coffre ouvert contenant un fragment de soi.",
+    "style": "art byzantin + trésor sacré",
+    "texture": "or ancien, nacre, lumière filtrée",
+    "mantra": "Là où je suis entier, tout s’accorde."
+  }
+}

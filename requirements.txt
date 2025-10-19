@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+flatlib
+requests
+python-dotenv
+rich
+pillow
+pyswisseph
+openai
+

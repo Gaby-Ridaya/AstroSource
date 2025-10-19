@@ -1,0 +1,77 @@
+{
+  "zodiac_perspective_brunelleschi": {
+    "1_Bélier": {
+      "plante": "Tulipe rouge",
+      "couleur": "Rouge vif",
+      "perspective": "Construction en perspective fuyante, tiges dressées comme les colonnes d’un temple naissant. La tulipe surgit au premier plan, sa silhouette projetant une force dynamique dans l’espace, à la façon d’un portail ouvert vers l’inconnu.",
+      "inspiration": "Mise en scène architecturale selon Brunelleschi : dynamique, audace de la ligne d’horizon, profondeur du début du voyage."
+    },
+    "2_Taureau": {
+      "plante": "Rose ancienne",
+      "couleur": "Rose tendre",
+      "perspective": "Structure en arc de cercle, pétales disposés selon une perspective concentrique autour d’un centre solide. La rose repose au centre d’un espace en abside, donnant une impression de stabilité et d’abondance.",
+      "inspiration": "Équilibre de la perspective axiale, stabilité inspirée des dômes de Brunelleschi, force paisible de la matière."
+    },
+    "3_Gémeaux": {
+      "plante": "Lys blanc",
+      "couleur": "Blanc pur",
+      "perspective": "Deux lys s’élèvent en diagonale vers des points de fuite opposés, suggérant la dualité et l’échange. L’espace autour d’eux s’ouvre comme une galerie à double nef.",
+      "inspiration": "Perspective croisée, cheminements parallèles, jeu d’axes multiples, géométrie vivante à la manière des plans d’église."
+    },
+    "4_Cancer": {
+      "plante": "Lotus sacré",
+      "couleur": "Rose pâle",
+      "perspective": "Lotus posé au centre d’un bassin circulaire, vues concentriques rappelant les coupoles. Les pétales s’ouvrent en courbes harmonieuses, créant une perspective enveloppante.",
+      "inspiration": "Perspective centrée, effet de cocon, refuge doux tel l’intérieur d’une cathédrale circulaire."
+    },
+    "5_Lion": {
+      "plante": "Tournesol",
+      "couleur": "Jaune or",
+      "perspective": "Tournesol majestueux au centre d’un axe de symétrie. Son disque central fait écho à une rosace de cathédrale, tandis que ses pétales rayonnent en perspective radiale.",
+      "inspiration": "Centralité théâtrale, lumière qui converge, glorification de la verticalité comme dans les nefs monumentales."
+    },
+    "6_Vierge": {
+      "plante": "Lavande",
+      "couleur": "Violet doux",
+      "perspective": "Épis de lavande ordonnés en lignes droites, convergeant vers un point de fuite sur l’horizon, rappelant les allées d’un cloître.",
+      "inspiration": "Perspective ordonnée, discipline du regard, géométrie rationnelle, inspiration des plans réguliers."
+    },
+    "7_Balance": {
+      "plante": "Pivoine",
+      "couleur": "Rose clair",
+      "perspective": "Pivoine placée sur l’axe central, encadrée de part et d’autre par des éléments symétriques en perspective. Effet de miroir architectural autour du cœur floral.",
+      "inspiration": "Symétrie parfaite, balance architecturale, jeux de reflets à la façon des palais à arcades."
+    },
+    "8_Scorpion": {
+      "plante": "Datura",
+      "couleur": "Blanc crème",
+      "perspective": "Datura s’élève du bas du cadre vers l’arrière-plan dans une perspective profonde, tunnels sombres autour d’elle comme des couloirs secrets.",
+      "inspiration": "Perspective profonde, descentes et ascensions mystérieuses, jeu d’ombres à la Brunelleschi."
+    },
+    "9_Sagittaire": {
+      "plante": "Iris bleu",
+      "couleur": "Bleu azur",
+      "perspective": "Iris dressé dans un espace ouvert, lignes convergentes vers l’infini, évoquant un portail de cathédrale ouvrant sur le ciel.",
+      "inspiration": "Perspective ascendante, ouverture, appel du voyage et de la transcendance."
+    },
+    "10_Capricorne": {
+      "plante": "Capucine",
+      "couleur": "Orange brûlé",
+      "perspective": "Capucines en terrasses, disposées en escalier comme des marches de pierre, chaque étage guidant le regard vers le sommet.",
+      "inspiration": "Construction verticale, gradins, solidité architecturale, symbolique de l’ascension planifiée."
+    },
+    "11_Verseau": {
+      "plante": "Orchidée bleue",
+      "couleur": "Bleu électrique",
+      "perspective": "Orchidée flottant dans un espace ajouré, lignes courbes innovantes, perspective éclatée rappelant les jeux de structure visionnaire.",
+      "inspiration": "Architecture futuriste, perspectives brisées, invention permanente à la façon d’un Brunelleschi moderne."
+    },
+    "12_Poissons": {
+      "plante": "Nénuphar",
+      "couleur": "Blanc nacré",
+      "perspective": "Nénuphar sur un bassin sans bords, courbes douces s’éloignant à l’infini, effet de flottaison dans une coupole ouverte sur l’eau.",
+      "inspiration": "Perspective circulaire, dissolution des repères, espace fluide et enveloppant comme la vision mystique."
+    }
+  },
+  "instructions": "Pour chaque signe, intégrer la fleur ou la plante sacrée dans une composition inspirée de la perspective architecturale de Brunelleschi : lignes de fuite, axes, profondeurs, symétries ou dynamiques spatiales, en harmonie avec la symbolique du signe."
+}

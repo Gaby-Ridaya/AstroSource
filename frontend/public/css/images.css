@@ -1,0 +1,13 @@
+/* images.css : styles globaux pour toutes les images du site */
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 1.5em;
+  box-shadow: 0 4px 32px #4fc3ff55, 0 2px 16px #6a4fcf33;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+img:hover {
+  transform: scale(1.04);
+  box-shadow: 0 8px 40px #4fc3ff99, 0 2px 24px #6a4fcf77;
+}

@@ -1,0 +1,102 @@
+{
+  "Sun": {
+    "domicile": "Lion",
+    "exaltation": "Bélier",
+    "description": "Le Soleil est chez lui en Lion, rayonnant de force, de créativité et de noblesse. Il est exalté en Bélier, où il exprime l’initiative et la vitalité pure.",
+    "symbolique_visuelle": {
+      "couleurs": ["or", "rouge feu", "ocre"],
+      "formes": ["rayons concentriques", "mandala solaire", "coeur flamboyant"],
+      "inspiration": "Soleil hyperréaliste à la Dali, flottant dans un ciel aride façon désert onirique ; lions de pierre sculptés à la Moreau, trônant devant un palais en ruines doré"
+    }
+  },
+  "Moon": {
+    "domicile": "Cancer",
+    "exaltation": "Taureau",
+    "description": "La Lune est chez elle en Cancer, symbole de sensibilité, de mémoire et de protection. Elle est exaltée en Taureau, où elle apporte stabilité et douceur émotionnelle.",
+    "symbolique_visuelle": {
+      "couleurs": ["argent", "bleu nuit", "perle", "rose pâle"],
+      "formes": ["croissants", "reflets dans l’eau", "coquilles", "ronds doux"],
+      "inspiration": "Une lune nacrée suspendue dans une jungle luxuriante à la Rousseau, avec des rivières-miroirs et des visages maternels voilés"
+    }
+  },
+  "Mercury": {
+    "domicile": ["Gémeaux", "Vierge"],
+    "exaltation": "Vierge",
+    "description": "Mercure est chez lui en Gémeaux et en Vierge, favorisant l’intellect, la communication et l’analyse. Il est exalté en Vierge, où il atteint la précision mentale.",
+    "symbolique_visuelle": {
+      "couleurs": ["gris clair", "vert menthe", "jaune citron", "argent métallique"],
+      "formes": ["spirales", "labyrinthes", "ailes", "rouages"],
+      "inspiration": "Un androgyne ailé (type Hermès) dans un décor mécanique et végétal, style Dali+Moreau, des lettres flottant dans l’air comme des feuilles"
+    }
+  },
+  "Venus": {
+    "domicile": ["Taureau", "Balance"],
+    "exaltation": "Poissons",
+    "description": "Vénus est chez elle en Taureau et en Balance, apportant beauté, harmonie et sensualité. Elle est exaltée en Poissons, où elle s’exprime dans l’amour universel et l’inspiration artistique.",
+    "symbolique_visuelle": {
+      "couleurs": ["rose poudré", "vert émeraude", "ivoire", "bleu pastel"],
+      "formes": ["fleurs", "vagues", "formes en huit", "arabesques"],
+      "inspiration": "Figure féminine entourée de coquillages flottants, avec des robes liquides et transparentes façon Moreau, dans un jardin à la Rousseau"
+    }
+  },
+  "Mars": {
+    "domicile": ["Bélier", "Scorpion"],
+    "exaltation": "Capricorne",
+    "description": "Mars est chez lui en Bélier et en Scorpion, incarnant l’action, la passion et la transformation. Il est exalté en Capricorne, où il canalise sa force dans la persévérance et la stratégie.",
+    "symbolique_visuelle": {
+      "couleurs": ["rouge sang", "noir", "acier", "terre cuite"],
+      "formes": ["lames", "flammes", "lignes brisées", "montagnes"],
+      "inspiration": "Un guerrier au casque fondu, surgissant d’un volcan, des chaînes brisées et un ciel tourmenté à la Dali ou Bosch"
+    }
+  },
+  "Jupiter": {
+    "domicile": ["Sagittaire", "Poissons"],
+    "exaltation": "Cancer",
+    "description": "Jupiter est chez lui en Sagittaire et en Poissons, porteur d’expansion, de foi et de sagesse. Il est exalté en Cancer, où il protège et nourrit.",
+    "symbolique_visuelle": {
+      "couleurs": ["bleu royal", "pourpre", "or", "indigo"],
+      "formes": ["orbes", "arches", "mandalas", "arbres géants"],
+      "inspiration": "Un sage barbu trônant au sommet d’un escalier céleste, des galaxies dans sa robe, des enfants-lumière autour, entre Moreau et William Blake"
+    }
+  },
+  "Saturn": {
+    "domicile": ["Capricorne", "Verseau"],
+    "exaltation": "Balance",
+    "description": "Saturne est chez lui en Capricorne et en Verseau, maître du temps, de la structure et de la responsabilité. Il est exalté en Balance, où il recherche l’équilibre et la justice.",
+    "symbolique_visuelle": {
+      "couleurs": ["gris anthracite", "bleu glacier", "noir velours", "or pâle"],
+      "formes": ["sabliers", "escaliers en colimaçon", "colonnes", "balanciers"],
+      "inspiration": "Un temple fractal suspendu dans le vide, des engrenages géants, un Saturne aux yeux fermés portant le zodiaque dans sa main"
+    }
+  },
+  "Uranus": {
+    "domicile": "Verseau",
+    "exaltation": "Scorpion",
+    "description": "Uranus est chez lui en Verseau, symbole d’innovation et de liberté. Il est exalté en Scorpion, où il transforme et régénère.",
+    "symbolique_visuelle": {
+      "couleurs": ["turquoise", "électrique", "argent irisé", "violet"],
+      "formes": ["éclairs", "circuits", "fractales", "prismes"],
+      "inspiration": "Un ciel de verre fracturé, des éclairs numériques, des silhouettes humaines se désintégrant dans une aurore boréale"
+    }
+  },
+  "Neptune": {
+    "domicile": "Poissons",
+    "exaltation": "Lion",
+    "description": "Neptune est chez lui en Poissons, maître des rêves, de l’intuition et du mysticisme. Il est exalté en Lion, où il inspire la créativité et la générosité.",
+    "symbolique_visuelle": {
+      "couleurs": ["bleu océan", "indigo", "lavande", "opale"],
+      "formes": ["vagues", "brouillards", "yeux ouverts", "miroirs d’eau"],
+      "inspiration": "Un trône sous-marin, une sirène rêveuse tenant un globe étoilé, avec des visages dans les nuages, comme peints à l’aquarelle"
+    }
+  },
+  "Pluto": {
+    "domicile": "Scorpion",
+    "exaltation": "Bélier",
+    "description": "Pluton est chez lui en Scorpion, porteur de transformation profonde et de pouvoir caché. Il est exalté en Bélier, où il initie des renaissances puissantes.",
+    "symbolique_visuelle": {
+      "couleurs": ["noir profond", "rouge carmin", "prune", "argent brûlé"],
+      "formes": ["tunnels", "crânes fleuris", "papillons de cendre", "spirales inversées"],
+      "inspiration": "Un phénix spectral émergeant d’un puits, des crânes devenant fleurs, des corps en transformation, comme des visions de rêve"
+    }
+  }
+}

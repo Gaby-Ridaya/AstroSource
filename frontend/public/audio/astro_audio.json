@@ -1,0 +1,26 @@
+{
+  "fichier": "astro_audio.mp3",
+  "duree_sec": 1760.5680272108843,
+  "tempo": 151.99908088235293,
+  "rms": 0.13440333306789398,
+  "peak": 0.7705792188644409,
+  "lufs": -14.257369878486287,
+  "snr_db": 40.58780396035456,
+  "tessiture_utile": {
+    "min_freq": 53.8330078125,
+    "max_freq": 2368.65234375
+  },
+  "pitch_dominant": 460.8957824707031,
+  "energie_par_bande": {
+    "grave": 17181622.0,
+    "bas_m\u00e9dium": 18847764.0,
+    "m\u00e9dium": 11488278.0,
+    "haut_m\u00e9dium": 2184851.5,
+    "aigu": 150618.875
+  },
+  "stereo_width": 0.47637914817388427,
+  "key": "D",
+  "nb_transitoires": 7855,
+  "crest_factor": 15.168145022142765,
+  "dynamique_rms": 0.03483836352825165
+}

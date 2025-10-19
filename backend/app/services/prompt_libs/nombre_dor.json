@@ -1,0 +1,77 @@
+{
+  "zodiac_plantes_fleurs_nombre_or": {
+    "1_Bélier": {
+      "plante": "Tulipe rouge",
+      "couleur": "Rouge vif",
+      "nombre_or": "Spirale ascendante des pétales suivant la section dorée, dynamisme de la pousse.",
+      "motif": "Tige et pétales s'enroulent en spirale φ, évoquant l'élan du commencement."
+    },
+    "2_Taureau": {
+      "plante": "Rose ancienne",
+      "couleur": "Rose tendre",
+      "nombre_or": "Disposition des pétales selon la suite de Fibonacci, cœur spiralé.",
+      "motif": "Fleur centrée sur une rosace dorée, équilibre du motif central et feuilles larges."
+    },
+    "3_Gémeaux": {
+      "plante": "Lys blanc",
+      "couleur": "Blanc pur",
+      "nombre_or": "Deux fleurs jumelles dont les pétales s’ouvrent selon une double spirale dorée.",
+      "motif": "Opposition et symétrie, lignes de tige entrecroisées, doubles spirales pour la légèreté."
+    },
+    "4_Cancer": {
+      "plante": "Lotus sacré",
+      "couleur": "Rose pâle",
+      "nombre_or": "Pétales rayonnants en étoile dorée, cœur central formé par une spirale φ.",
+      "motif": "Cercle protecteur, rayonnement doux autour du centre, composition harmonieuse."
+    },
+    "5_Lion": {
+      "plante": "Tournesol",
+      "couleur": "Jaune or",
+      "nombre_or": "Cœur en spirale de graines selon la proportion d’or, rayonnement pétales en étoile φ.",
+      "motif": "Structure solaire, multiples spirales internes et couronne majestueuse."
+    },
+    "6_Vierge": {
+      "plante": "Lavande",
+      "couleur": "Violet doux",
+      "nombre_or": "Epis allongés dont la disposition suit une progression dorée sur la tige.",
+      "motif": "Répétition ordonnée, spirale sur la tige, discrète géométrie précise."
+    },
+    "7_Balance": {
+      "plante": "Pivoine",
+      "couleur": "Rose clair",
+      "nombre_or": "Pétales superposés en couches spiralées selon la section dorée, équilibre parfait.",
+      "motif": "Rosace double, symétrie parfaite et équilibre des feuilles de part et d’autre."
+    },
+    "8_Scorpion": {
+      "plante": "Datura",
+      "couleur": "Blanc crème",
+      "nombre_or": "Fleur en trompette dont l'enroulement suit la spirale dorée, cœur mystérieux.",
+      "motif": "Enroulement hypnotique, volutes et géométrie profonde, ombres et lumière cachées."
+    },
+    "9_Sagittaire": {
+      "plante": "Iris bleu",
+      "couleur": "Bleu azur",
+      "nombre_or": "Pétales évasés disposés en éventail doré, élévation du calice vers le ciel.",
+      "motif": "Lignes verticales ascendantes, spirale discrète dans la tige et la corolle."
+    },
+    "10_Capricorne": {
+      "plante": "Capucine",
+      "couleur": "Orange brûlé",
+      "nombre_or": "Tiges rampantes et feuilles arrondies en spirale φ, fleurs s'ouvrant dans la proportion dorée.",
+      "motif": "Structure géométrique sobre, motifs de spirale sur les feuilles, sobriété élégante."
+    },
+    "11_Verseau": {
+      "plante": "Orchidée bleue",
+      "couleur": "Bleu électrique",
+      "nombre_or": "Disposition asymétrique des pétales, dessin inspiré du nombre d’or mais avec variations innovantes.",
+      "motif": "Lignes ondulées, motifs φ inattendus, géométrie créative et moderne."
+    },
+    "12_Poissons": {
+      "plante": "Nénuphar",
+      "couleur": "Blanc nacré",
+      "nombre_or": "Feuilles et fleurs flottantes disposées selon la spirale d’or, harmonie aquatique.",
+      "motif": "Cercle concentrique, spirale douce sur l’eau, reflets dorés et symétrie fluide."
+    }
+  },
+  "instructions": "Pour chaque signe, intégrer la plante ou la fleur sacrée associée. Représenter la forme, la couleur et la disposition géométrique selon le nombre d’or (φ), en adaptant le motif à la symbolique profonde du signe."
+}

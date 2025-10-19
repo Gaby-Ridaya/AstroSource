@@ -1,0 +1,77 @@
+{
+  "zodiac_artist_map": {
+    "Bélier": {
+      "peintre": "Le Tintoret",
+      "couleurs": "Rouges incandescents, or, verts émeraude, forts contrastes de lumière.",
+      "style": "Dessin fougueux, compositions dynamiques, effets de perspective vertigineux, énergie brute et coups de pinceau impulsifs.",
+      "symbolique": "Impulsion du renouveau, lueur héroïque, puissance du commencement."
+    },
+    "Taureau": {
+      "peintre": "Titien",
+      "couleurs": "Ocres, pourpres profonds, verts luxuriants, or cuivré, carnations chaudes.",
+      "style": "Modelé sensuel, matières épaisses, drapés riches, détails charnels, atmosphère opulente.",
+      "symbolique": "Fécondité, douceur terrestre, sensualité naturelle, abondance paisible."
+    },
+    "Gémeaux": {
+      "peintre": "David",
+      "couleurs": "Bleu clair, blanc pur, gris perle, rouges subtils.",
+      "style": "Précision linéaire, contours nets, mise en scène narrative, équilibre rationnel, virtuosité du dessin.",
+      "symbolique": "Dialogue, dualité, intelligence communicative, élégance intellectuelle."
+    },
+    "Cancer": {
+      "peintre": "Jan Van Eyck",
+      "couleurs": "Verts profonds, rouges rubis, bleus saphir, lumière dorée, tons doux et enveloppants.",
+      "style": "Précision miniature, textures raffinées, lumière diffuse, intimité mystique, détails symboliques cachés.",
+      "symbolique": "Protection, douceur du foyer, sacralité intérieure, monde secret du cœur."
+    },
+    "Lion": {
+      "peintre": "Ingres",
+      "couleurs": "Jaune solaire, bleu roi, ivoire, or pâle.",
+      "style": "Lignes majestueuses, pureté du contour, poses nobles, surfaces lisses, beauté idéalisée.",
+      "symbolique": "Rayonnement, gloire, majesté, charisme souverain."
+    },
+    "Vierge": {
+      "peintre": "Poussin",
+      "couleurs": "Terres claires, verts d’olivine, bleus sobres, tons pierre et ciel lavé.",
+      "style": "Construction géométrique, équilibre classique, détails ordonnés, paysages structurés, narration symbolique.",
+      "symbolique": "Ordre, rigueur, pureté, harmonie du détail, sagesse cachée."
+    },
+    "Balance": {
+      "peintre": "Raphaël",
+      "couleurs": "Roses tendres, verts doux, azur, or délicat.",
+      "style": "Grâce fluide, harmonie parfaite, lumière céleste, symétrie, douceur et paix dans les visages.",
+      "symbolique": "Équilibre, beauté, union des opposés, harmonie relationnelle."
+    },
+    "Scorpion": {
+      "peintre": "Georges de La Tour",
+      "couleurs": "Rouge sang, noirs profonds, oranges brûlés, lumière de bougie.",
+      "style": "Clair-obscur intense, scènes nocturnes, tension dramatique, visages méditatifs, aura de secret.",
+      "symbolique": "Transformation, mystère, passion cachée, feu intérieur."
+    },
+    "Sagittaire": {
+      "peintre": "Botticelli",
+      "couleurs": "Or pâle, turquoise, verts clairs, roses lumineux, blancs irisés.",
+      "style": "Lignes sinueuses, arabesques raffinées, légèreté éthérée, compositions mythologiques, atmosphère poétique.",
+      "symbolique": "Quête de sens, idéal cosmique, élévation, inspiration mystique."
+    },
+    "Capricorne": {
+      "peintre": "Poussin",
+      "couleurs": "Bruns, gris pierre, verts sobres, bleus froids.",
+      "style": "Ordre monumental, scénographie sévère, profondeur architecturale, lignes austères.",
+      "symbolique": "Sagesse, ambition, ascension, structure du destin."
+    },
+    "Verseau": {
+      "peintre": "Leonard de Vinci",
+      "couleurs": "Bleus célestes, verts argentés, gris perle, reflets iridescents.",
+      "style": "Effet sfumato, inventions visionnaires, croquis, visages androgynes, jeux de transparence et d’aérien.",
+      "symbolique": "Innovation, intuition, humanisme, génie visionnaire."
+    },
+    "Poissons": {
+      "peintre": "Vermeer",
+      "couleurs": "Bleu nuit, jaune doux, nacre, lumière laiteuse, camaïeux apaisants.",
+      "style": "Lumière intime, composition paisible, atmosphère silencieuse, délicatesse des textures.",
+      "symbolique": "Rêve, compassion, mystère aquatique, spiritualité flottante."
+    }
+  },
+  "instructions": "Pour chaque image astrologique, inspirez-vous du peintre associé au signe. Reproduisez sa palette, sa technique, et son atmosphère, tout en infusant la symbolique astrologique dans la scène représentée."
+}

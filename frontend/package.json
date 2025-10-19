@@ -1,0 +1,48 @@
+{
+  "name": "astrosource-frontend",
+  "displayName": "AstroSource Pro",
+  "description": "Interface frontend pour AstroSource - Générateur de thèmes astraux avancé",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "keywords": ["astrologie", "thème astral", "react", "vite", "javascript"],
+  "author": "AstroSource Team",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "scripts": {
+    "dev": "vite --host",
+    "dev:chrome": "BROWSER=chromium-browser vite --host",
+    "dev:firefox": "BROWSER=firefox vite --host",
+    "dev:no-browser": "BROWSER=none vite --host",
+    "build": "vite build",
+    "build:analyze": "vite build --analyze",
+    "preview": "vite preview --host",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives",
+    "lint:fix": "eslint . --ext js,jsx --fix",
+    "lint:check": "eslint . --ext js,jsx --max-warnings 0",
+    "format": "prettier --write \"src/**/*.{js,jsx,css,md}\"",
+    "format:check": "prettier --check \"src/**/*.{js,jsx,css,md}\"",
+    "clean": "rm -rf dist node_modules/.vite",
+    "test": "echo \"Tests à implémenter\" && exit 0",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.7.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.30.1",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "@vitejs/plugin-react": "^4.6.0",
+    "eslint": "^9.30.1",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.20",
+    "globals": "^16.3.0",
+    "vite": "^7.0.4"
+  }
+}

@@ -1,0 +1,28 @@
+# Build outputs
+dist/
+build/
+*.min.js
+*.min.css
+
+# Dependencies
+node_modules/
+
+# Cache
+.cache/
+.vite/
+
+# Logs
+*.log
+
+# Configuration files that should not be formatted
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Generated files
+coverage/
+storybook-static/
+
+# Backup files
+*.backup
+*.bak

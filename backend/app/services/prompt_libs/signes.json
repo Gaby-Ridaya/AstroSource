@@ -1,0 +1,74 @@
+{
+  "Bélier": {
+    "titre": "♈️ 1. Bélier — L’Initiateur Igné",
+    "prompt": "A celestial warrior emerging from a red dawn. Inspired by pre-Raphaelite warriors and Byzantine saints, with armor engraved in ancient symbols of Mars. Flames rise from a mandala of fire behind them. The background is a desert of cracked light, symbol of raw beginnings.",
+    "style": "alchemical-surreal, warm tones, sculpted shadows",
+    "mantra": "Je suis le feu qui ouvre les portes."
+  },
+  "Taureau": {
+    "titre": "♉️ 2. Taureau — La Gardienne du Temple Terre",
+    "prompt": "A divine figure draped in velvet and moss, seated in a temple built from ancient roots and gold-veined marble. Inspired by Klimt, Moreau, and Af Klint. Flowers bloom from her skin. Venus glyphs are embedded in the architecture. Atmosphere of sensual stillness. Textures: silk, stone, leaf.",
+    "style": "silk, stone, leaf",
+    "mantra": "Ce qui est fertile est sacré."
+  },
+  "Gémeaux": {
+    "titre": "♊️ 3. Gémeaux — Le Messager Fractal",
+    "prompt": "A dual-faced being walking between mirrors of light and shadow. Influences: Carrington for the surreal twins, Byzantine mosaic patterns morphing like data flow. Mercury wings on the temples, fragmented symbols spinning in the air.",
+    "style": "kaleido-mystic, high-contrast, shimmering",
+    "mantra": "Je suis l’écho du monde qui pense."
+  },
+  "Cancer": {
+    "titre": "♋️ 4. Cancer — La Mémoire des Eaux",
+    "prompt": "A lunar priestess submerged in a bioluminescent sea-temple. Her dress flows like ink in water. Influenced by pre-Raphaelite Ophelia, sacred feminine symbolism, and astral dreamscapes. Shells and lunar glyphs float around her.",
+    "style": "deep blues, glowing whites",
+    "mantra": "Je me souviens d’avant la naissance."
+  },
+  "Lion": {
+    "titre": "♌️ 5. Lion — Le Soleil Intérieur",
+    "prompt": "A radiant sovereign seated on a throne of stars and gold, their heart a living sun. Byzantine mosaic halo, textures of molten gold, fire and velvet. Solar symbols pulse in the air.",
+    "style": "sacred regality meets visionary eruption",
+    "mantra": "Roi de moi, lumière de tout."
+  },
+  "Vierge": {
+    "titre": "♍️ 6. Vierge — L’Alchimiste Silencieuse",
+    "prompt": "An herbalist in a moonlit laboratory-temple, surrounded by scrolls, dried plants, and sacred diagrams. Influences: Hilma af Klint, sacred geometry, medieval manuscript aesthetics. Soft earth tones, introspective atmosphere.",
+    "style": "parchment, linen, dust",
+    "mantra": "Je purifie pour révéler l’essentiel."
+  },
+  "Balance": {
+    "titre": "♎️ 7. Balance — La Danseuse des Mondes",
+    "prompt": "A celestial figure in perfect poise on a golden thread suspended between two worlds. Inspired by Byzantine iconography and pre-Raphaelite elegance. Behind her, a giant mandala of balance, half light, half shadow.",
+    "style": "soft symmetry, iridescent textures, sacred beauty",
+    "mantra": "Je suis l’équilibre dans le tumulte."
+  },
+  "Scorpion": {
+    "titre": "♏️ 8. Scorpion — Le Gardien des Portes Invisibles",
+    "prompt": "A shamanic figure wrapped in shadow and violet flame, eyes glowing with inner vision. Influences: Zdzisław Beksiński’s underworld textures, alchemical ruins, Carrington’s psychic surrealism. Scorpion glyph carved in obsidian behind them.",
+    "style": "ashes, skin, moonlight",
+    "mantra": "Je meurs pour renaître."
+  },
+  "Sagittaire": {
+    "titre": "♐️ 9. Sagittaire — L’Archer Céleste",
+    "prompt": "A centaur philosopher shooting an arrow into a cosmic spiral. His body is covered with constellations and inscriptions in ancient languages. A blend of Moreau’s mythological grandeur and visionary galactic landscape.",
+    "style": "lumière, étoffes sacrées, ciel profond",
+    "mantra": "Je vise ce que je ne vois pas encore."
+  },
+  "Capricorne": {
+    "titre": "♑️ 10. Capricorne — L’Architecte du Temps",
+    "prompt": "A solitary figure carving runes into a mountain, watched by Saturn’s rings overhead. Temple ruins emerge from the rock.",
+    "style": "slate, silver, deep grey",
+    "mantra": "Ce qui dure est sacré."
+  },
+  "Verseau": {
+    "titre": "♒️ 11. Verseau — Le Porteur de Vision",
+    "prompt": "A figure pouring stardust into a machine made of light and sacred code. Inspired by sacred futurism, techno-mysticism, Uranian abstraction. Architecture is crystalline, floating.",
+    "style": "electric blues, opalescent whites",
+    "mantra": "Je rêve le monde qui vient."
+  },
+  "Poissons": {
+    "titre": "♓️ 12. Poissons — L’Onde de l’Invisible",
+    "prompt": "A figure dissolving into a sea of stars, eyes closed in ecstatic surrender. Her veil becomes the cosmos. Influences: pre-Raphaelite Virgin Mary, Neptune symbolism, and visionary art by Alex Grey.",
+    "style": "aqua, lavender, gold mist",
+    "mantra": "Je suis l’écho du Tout."
+  }
+}

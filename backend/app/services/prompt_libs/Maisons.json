@@ -1,0 +1,86 @@
+{
+  "Maison_I": {
+    "titre": "🏠 Maison I — Le Seuil de l’Être",
+    "prompt": "A figure steps through a stargate carved with runes of fire and light. The landscape shifts around them as if being created by their presence.",
+    "style": "visionary portal, symbolic rebirth",
+    "texture": "peau, lumière brute, énergie initiale",
+    "mantra": "Je suis ce qui commence."
+  },
+  "Maison_II": {
+    "titre": "🏠 Maison II — Le Temple des Valeurs",
+    "prompt": "An earthy sanctuary filled with ancient treasures, talismans, sacred instruments. A cloaked guardian sits peacefully among living roots and coins carved with Venusian glyphs.",
+    "style": "sécurité, sensualité, sacré incarné",
+    "texture": "bois, cuir, métal chaud",
+    "mantra": "Ce que je possède reflète ce que je suis."
+  },
+  "Maison_III": {
+    "titre": "🏠 Maison III — Le Jardin des Mots",
+    "prompt": "A labyrinth of golden scrolls, moving glyphs, floating letters that sing. A winged youth runs barefoot through a library of air.",
+    "style": "mercure onirique, vivacité, connexion mentale",
+    "texture": "papier vivant, vent, encre fluide",
+    "mantra": "Je parle donc je relie."
+  },
+  "Maison_IV": {
+    "titre": "🏠 Maison IV — Le Sanctuaire de l’Origine",
+    "prompt": "A hidden cave lit by ancestral fire, walls covered in murals of memory. A lunar figure weaves threads from past lives into glowing tapestries.",
+    "style": "refuge, matrice, racine mystique",
+    "texture": "pierre sacrée, braise, laine",
+    "mantra": "Je suis la mémoire qui veille."
+  },
+  "Maison_V": {
+    "titre": "🏠 Maison V — Le Théâtre de l’Âme",
+    "prompt": "A golden amphitheatre under the stars, where a radiant figure dances, painting light into the sky.",
+    "style": "création divine, joie incarnée",
+    "texture": "feu d'artifice, soie, couleurs vives",
+    "mantra": "Je crée donc je suis."
+  },
+  "Maison_VI": {
+    "titre": "🏠 Maison VI — L’Atelier de l’Ordre Sacré",
+    "prompt": "A monastère-herboristerie où l’on soigne l’âme par le geste juste. Livres ouverts, outils rituels, plantes médicinales organisées comme des constellations.",
+    "style": "calme, service mystique",
+    "texture": "argile, papier, lin propre",
+    "mantra": "Je purifie par l’attention."
+  },
+  "Maison_VII": {
+    "titre": "🏠 Maison VII — Le Miroir Sacré",
+    "prompt": "Un temple en miroir, reflet parfait du ciel et de soi. Deux figures se regardent, l’une est terrestre, l’autre céleste.",
+    "style": "vénusien éthéré, symétrie élégante",
+    "texture": "cristal, eau calme, étoffe fine",
+    "mantra": "Je suis ce que je reflète."
+  },
+  "Maison_VIII": {
+    "titre": "🏠 Maison VIII — Le Passage Alchimique",
+    "prompt": "Une crypte illuminée par des symboles gravés à même les os. Une figure franchit un portail entouré de serpents et de roses noires.",
+    "style": "transformation radicale, sexualité mystique",
+    "texture": "cendre, opale, métal sombre",
+    "mantra": "Je meurs pour naître en moi."
+  },
+  "Maison_IX": {
+    "titre": "🏠 Maison IX — La Cathédrale Céleste",
+    "prompt": "Une immense nef suspendue entre les étoiles, peuplée de symboles, de livres vivants, et de sagesses anciennes. Un pèlerin lève les yeux vers des sphères tournoyantes.",
+    "style": "expansion sacrée, vision",
+    "texture": "pierre lumineuse, ciel profond",
+    "mantra": "Je cherche le sens au-delà des mondes."
+  },
+  "Maison_X": {
+    "titre": "🏠 Maison X — La Tour de l’Âme Manifestée",
+    "prompt": "Une haute tour brillante s’élève au milieu d’un désert sacré. Au sommet, une figure lumineuse tient une étoile noire.",
+    "style": "destin, rayonnement maîtrisé",
+    "texture": "pierre lisse, or poli, vent hautain",
+    "mantra": "Je deviens ce que je suis."
+  },
+  "Maison_XI": {
+    "titre": "🏠 Maison XI — L’Astrarium des Alliances",
+    "prompt": "Un observatoire-cité suspendu dans le vide, où des êtres lumineux tissent des constellations de liens invisibles.",
+    "style": "uranien, futuriste-sacré",
+    "texture": "verre, métal céleste, lumière en réseau",
+    "mantra": "Je suis relié à ce qui me dépasse."
+  },
+  "Maison_XII": {
+    "titre": "🏠 Maison XII — Le Temple Caché de l’Infini",
+    "prompt": "Une île flottante entourée de brume, un temple abandonné où le silence parle. Un être seul médite face à un miroir d’eau noire.",
+    "style": "transcendance, perte, unité",
+    "texture": "brume, voile, silence vibrant",
+    "mantra": "Je suis le rêve que le monde oublie."
+  }
+}

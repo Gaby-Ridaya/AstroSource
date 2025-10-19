@@ -1,0 +1,77 @@
+{
+  "planetes_peintres_impressionnistes": {
+    "Soleil": {
+      "peintre": "Claude Monet",
+      "couleurs": "Jaune solaire, or ancien, blanc lumineux, touches d’orange pâle",
+      "nuances": "Atmosphère d’aurore spirituelle, halo rayonnant, reflets sacrés sur l’eau, vibration du cœur cosmique.",
+      "symbolique": "Rayonnement vital, présence divine, chaleur créatrice, force d’incarnation."
+    },
+    "Lune": {
+      "peintre": "Berthe Morisot",
+      "couleurs": "Argent opalin, bleu nuit doux, lilas pastel, nacre irisée",
+      "nuances": "Clair de lune ancestral, voile de mystère, lueur intime et maternante, ambiance de rêve ancien.",
+      "symbolique": "Réceptivité, mémoire des cycles, féminité sacrée, douceur de l’âme."
+    },
+    "Mercure": {
+      "peintre": "Camille Pissarro",
+      "couleurs": "Vert olive, jaune paille, gris clair, bleu aube",
+      "nuances": "Fraîcheur matinale, vibration printanière, jeux de lumière mouvante, esprit curieux du vent.",
+      "symbolique": "Mobilité, intelligence éveillée, communication fluide, souffle des messagers."
+    },
+    "Vénus": {
+      "peintre": "Pierre-Auguste Renoir",
+      "couleurs": "Rose incarnadin, ivoire doux, doré soyeux, vert tendre",
+      "nuances": "Atmosphère amoureuse, sensualité veloutée, éclat charnel, lumière caressante et ancestrale.",
+      "symbolique": "Amour, beauté divine, harmonie, enchantement des sens."
+    },
+    "Mars": {
+      "peintre": "Edgar Degas",
+      "couleurs": "Rouge carmin, brun terre, noir profond, cuivre rougi",
+      "nuances": "Dynamisme ancestral, force du mouvement, énergie sculptée dans la lumière, ombre guerrière.",
+      "symbolique": "Volonté, courage, affrontement, énergie de conquête sacrée."
+    },
+    "Jupiter": {
+      "peintre": "Paul Cézanne",
+      "couleurs": "Bleu roi, vert forêt, or patiné, brun antique",
+      "nuances": "Élan majestueux, structure cosmique, paysages bâtis comme des temples, sagesse étendue.",
+      "symbolique": "Expansion, quête de sens, loi universelle, noblesse de l’esprit."
+    },
+    "Saturne": {
+      "peintre": "Alfred Sisley",
+      "couleurs": "Gris cendré, bleu plomb, vert sauge, ocre ancien",
+      "nuances": "Sérénité intemporelle, lenteur du temps, lumière austère et sacrée, paysages d’attente mystique.",
+      "symbolique": "Structure, rigueur, patience, mémoire des ancêtres."
+    },
+    "Uranus": {
+      "peintre": "Georges Seurat",
+      "couleurs": "Bleu électrique, blanc cristallin, jaune vif, argent moderne",
+      "nuances": "Clarté visionnaire, éclat futuriste, composition novatrice, atmosphère d’éveil soudain.",
+      "symbolique": "Révolution, originalité, intuition fulgurante, souffle des nouveaux mondes."
+    },
+    "Neptune": {
+      "peintre": "Vincent van Gogh",
+      "couleurs": "Bleu indigo, turquoise astral, violet mystique, or cosmique",
+      "nuances": "Ondes cosmiques, brume onirique, lumière mouvante, spirale d’infini ancestral.",
+      "symbolique": "Inspiration, spiritualité, mystère, dissolution dans l’absolu."
+    },
+    "Pluton": {
+      "peintre": "Paul Gauguin",
+      "couleurs": "Rouge profond, brun volcanique, noir sacré, jaune primordial",
+      "nuances": "Mystère occulte, force de la nuit des temps, feu souterrain, archétypes puissants.",
+      "symbolique": "Transformation radicale, alchimie, résurrection, secret initiatique."
+    },
+    "Chiron": {
+      "peintre": "Mary Cassatt",
+      "couleurs": "Vert d’eau, rose tendre, bleu guérisseur, blanc compassion",
+      "nuances": "Tendresse réparatrice, douceur ancestrale, cercle de soins sacrés, lumière apaisante.",
+      "symbolique": "Guérison, blessure sacrée, compassion, passage des mémoires."
+    },
+    "Noeud Nord": {
+      "peintre": "Henri-Edmond Cross",
+      "couleurs": "Jaune solaire, bleu turquoise, vert lumineux, blanc cristallin",
+      "nuances": "Chemin d’évolution, porte de lumière, horizon ouvert, mosaïque vibrante de destin.",
+      "symbolique": "Destinée, élévation, apprentissage, futur de l’âme."
+    }
+  },
+  "instructions": "Pour chaque planète du thème, inspirez-vous du style, de la palette, des nuances et de l’aura mystique et ancestrale du peintre impressionniste associé, afin de donner à l’image astrologique une vibration profondément spirituelle et symbolique."
+}

@@ -1,0 +1,169 @@
+/* Suppression radicale de tout halo, overlay ou pseudo-élément */
+.roue-form-container,
+.roue-form-container::before,
+.roue-form-container::after,
+.roue-img-wrapper,
+.roue-img-wrapper::before,
+.roue-img-wrapper::after,
+.roue-img,
+.roue-img::before,
+.roue-img::after {
+  background: transparent !important;
+  box-shadow: none !important;
+  filter: none !important;
+  outline: none !important;
+  border: none !important;
+  opacity: 1 !important;
+}
+/* ===================== POSITIONNEMENT DU FORMULAIRE ===================== */
+.form-on-roue {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 70%;
+  max-width: 180px;
+  min-width: 120px;
+  z-index: 2;
+  pointer-events: auto;
+}
+
+.astro-form {
+  /* background supprimé */
+  border-radius: 2em;
+  /* box-shadow supprimé */
+  padding: 1.2em 1em 1em 1em;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  width: 100%;
+  max-width: 180px;
+  margin: 0 auto;
+  z-index: 2;
+}
+
+/* ===================== FORMULAIRE ===================== */
+.astro-form {
+  /* background supprimé */
+  border-radius: 1.2em;
+  background: none;
+  box-shadow: none;
+  padding: 2em 1.5em 1.5em 1.5em;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  width: 100%;
+  max-width: 180px;
+  margin: 0 auto;
+  z-index: 2;
+}
+
+/* Champs du formulaire */
+.form-group {
+  margin-bottom: 0.7em;
+}
+.form-input {
+  width: 100%;
+  padding: 0.4em 0.7em;
+  border-radius: 1.1em;
+  border: none;
+  background: rgba(79,195,255,0.13);
+  color: #fffbe6;
+  font-size: 1.08em;
+  font-family: 'Georgia', serif;
+  box-shadow: none;
+  border: 1.2px solid #4fc3ff;
+  transition: box-shadow 0.2s, border 0.2s;
+}
+.form-input:focus {
+  outline: none;
+  box-shadow: 0 2px 16px #4fc3ff77;
+  border: 1.2px solid #2d2560;
+}
+.astro-form h3 {
+  margin-bottom: 0.7em;
+  color: #ffe066;
+  font-size: 1.08em;
+  text-align: center;
+  font-family: 'Georgia', serif;
+  font-weight: bold;
+}
+/* Bouton du formulaire petit et stylé */
+.astro-form .art-astro-btn {
+  margin-top: 0.5em !important;
+  padding: 0.22em 0.7em !important;
+  border-radius: 1.1em !important;
+  background: linear-gradient(90deg,#4fc3ff 70%,#2d2560 100%) !important;
+  color: #fffbe6 !important;
+  font-size: 0.82em !important;
+  font-family: 'Georgia', serif !important;
+  border: none !important;
+  box-shadow: 0 1px 8px #4fc3ff22 !important;
+  cursor: pointer !important;
+  transition: background 0.2s, box-shadow 0.2s !important;
+  font-weight: 600 !important;
+}
+.astro-form .art-astro-btn:hover {
+  background: linear-gradient(90deg,#2d2560 60%,#4fc3ff 100%) !important;
+  color: #ffe066 !important;
+  box-shadow: 0 4px 24px #4fc3ff55 !important;
+}
+
+/* Container et image */
+/* Suppression de tout effet de halo/reflet */
+.roue-form-container {
+  position: relative;
+  width: 700px;
+  max-width: 95vw;
+  min-width: 320px;
+  height: 700px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: transparent !important;
+  box-shadow: none !important;
+  filter: none !important;
+}
+.roue-img-wrapper {
+  position: relative;
+  width: 700px;
+  height: 700px;
+  max-width: 95vw;
+  max-height: 95vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0;
+  background: transparent !important;
+  box-shadow: none !important;
+  filter: none !important;
+}
+.roue-img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  background: transparent !important;
+  filter: none !important;
+  box-shadow: none !important;
+  pointer-events: none;
+}
+.roue-img-position {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Suppression radicale de tout effet sur les canvas */
+canvas, canvas::before, canvas::after {
+  background: transparent !important;
+  box-shadow: none !important;
+  filter: none !important;
+  outline: none !important;
+  border: none !important;
+  opacity: 1 !important;
+}
