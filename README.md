@@ -4,6 +4,20 @@
 
 AstroSource explore l'intersection fascinante entre l'astrologie et l'intelligence artificielle créative. Ce projet imagine une IA capable d'interpréter les thèmes astrologiques et de les transformer en œuvres d'art **visuelles et sonores** uniques.
 
+## 🎨 Aperçu Visuel
+
+*Découvrez la magie d'AstroSource en images*
+
+### 📊 Carte Astrale Générée
+![Exemple de thème astral](frontend/public/roue/gaby_theme.svg)
+*Carte astrale interactive avec positions planétaires précises*
+
+### 🎨 Art Généré par IA
+![Création artistique AstroSource](frontend/public/data/gaby/img4.JPG)
+*Œuvre d'art unique générée à partir d'un thème astral - Création originale Gaby*
+
+> **✨ De votre date de naissance à une œuvre d'art unique en quelques secondes !**
+
 ## 🎨 Concept Principal
 
 ### Galerie AI
