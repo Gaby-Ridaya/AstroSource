@@ -1,0 +1,139 @@
+{
+  "Kandinsky": {
+    "couleurs": ["bleu profond", "jaune vif", "rouge intense", "noir", "blanc"],
+    "techniques": ["abstraction", "formes géométriques", "superposition", "mouvement", "contraste"],
+    "textures": ["vibration", "tourbillon", "éclat", "spirale"]
+  },
+  "Klee": {
+    "couleurs": ["rose doux", "vert olive", "bleu ciel", "orange", "gris"],
+    "techniques": ["symbolisme", "motifs répétitifs", "transparence", "jeu de lumière"],
+    "textures": ["velours", "lignes fines", "patchwork"]
+  },
+  "Hilma af Klint": {
+    "couleurs": ["jaune doré", "rose pâle", "bleu clair", "vert menthe", "blanc"],
+    "techniques": ["spiritualité", "formes organiques", "symétrie", "cercle sacré"],
+    "textures": ["douceur", "fluidité", "harmonie"]
+  },
+  "Miro": {
+    "couleurs": ["bleu roi", "rouge vif", "noir", "jaune", "vert"],
+    "techniques": ["surréalisme", "taches", "points", "lignes courbes", "jeu d'échelle"],
+    "textures": ["granuleux", "tacheté", "ludique"]
+  }
+  ,
+  "Monet": {
+    "couleurs": ["jaune solaire", "or ancien", "blanc lumineux", "orange pâle"],
+    "techniques": ["impressionnisme", "flou lumineux", "reflets sur l’eau", "superposition de touches"],
+    "textures": ["vibration", "halo", "fluidité"]
+  },
+  "Morisot": {
+    "couleurs": ["argent opalin", "bleu nuit doux", "lilas pastel", "nacre irisée"],
+    "techniques": ["impressionnisme", "voile de mystère", "lumière diffuse", "pinceau léger"],
+    "textures": ["douceur", "légèreté", "rêve"]
+  },
+  "Pissarro": {
+    "couleurs": ["vert olive", "jaune paille", "gris clair", "bleu aube"],
+    "techniques": ["impressionnisme", "jeux de lumière", "paysage printanier", "touche rapide"],
+    "textures": ["fraîcheur", "mouvement", "lumière"]
+  },
+  "Renoir": {
+    "couleurs": ["rose incarnadin", "ivoire doux", "doré soyeux", "vert tendre"],
+    "techniques": ["impressionnisme", "velouté", "lumière caressante", "portrait charnel"],
+    "textures": ["velours", "éclat", "sensualité"]
+  },
+  "Degas": {
+    "couleurs": ["rouge carmin", "brun terre", "noir profond", "cuivre rougi"],
+    "techniques": ["impressionnisme", "mouvement", "sculpture de la lumière", "ombres dynamiques"],
+    "textures": ["force", "énergie", "ombre"]
+  },
+  "Cézanne": {
+    "couleurs": ["bleu roi", "vert forêt", "or patiné", "brun antique"],
+    "techniques": ["impressionnisme", "structure", "temple paysager", "bâtisseur de formes"],
+    "textures": ["majesté", "solide", "sagesse"]
+  },
+  "Sisley": {
+    "couleurs": ["gris cendré", "bleu plomb", "vert sauge", "ocre ancien"],
+    "techniques": ["impressionnisme", "lenteur du temps", "lumière austère", "paysage mystique"],
+    "textures": ["sérénité", "patience", "mémoire"]
+  },
+  "Seurat": {
+    "couleurs": ["bleu électrique", "blanc cristallin", "jaune vif", "argent moderne"],
+    "techniques": ["pointillisme", "composition novatrice", "visionnaire", "éveil soudain"],
+    "textures": ["clarté", "futuriste", "mosaïque"]
+  },
+  "van Gogh": {
+    "couleurs": ["bleu indigo", "turquoise astral", "violet mystique", "or cosmique"],
+    "techniques": ["impressionnisme", "mouvement", "spirale", "lumière mouvante"],
+    "textures": ["ondes", "brume", "infini"]
+  },
+  "Gauguin": {
+    "couleurs": ["rouge profond", "brun volcanique", "noir sacré", "jaune primordial"],
+    "techniques": ["symbolisme", "mystère", "archétype", "feu souterrain"],
+    "textures": ["puissance", "nuit", "secret"]
+  },
+  "Cassatt": {
+    "couleurs": ["vert d’eau", "rose tendre", "bleu guérisseur", "blanc compassion"],
+    "techniques": ["impressionnisme", "tendresse", "cercle de soins", "lumière apaisante"],
+    "textures": ["douceur", "réparation", "compassion"]
+  },
+  "Cross": {
+    "couleurs": ["jaune solaire", "bleu turquoise", "vert lumineux", "blanc cristallin"],
+    "techniques": ["impressionnisme", "mosaïque vibrante", "horizon ouvert", "porte de lumière"],
+    "textures": ["évolution", "élévation", "apprentissage"]
+  }
+  ,
+  "Le Tintoret": {
+    "couleurs": ["rouge incandescent", "or", "vert émeraude", "contraste de lumière"],
+    "techniques": ["dessin fougueux", "composition dynamique", "perspective vertigineuse", "énergie brute", "pinceau impulsif"],
+    "textures": ["impulsion", "puissance", "lueur héroïque"]
+  },
+  "Titien": {
+    "couleurs": ["ocre", "pourpre profond", "vert luxuriant", "or cuivré", "carnation chaude"],
+    "techniques": ["modelé sensuel", "matière épaisse", "drapé riche", "détail charnel", "atmosphère opulente"],
+    "textures": ["fécondité", "douceur", "abondance"]
+  },
+  "David": {
+    "couleurs": ["bleu clair", "blanc pur", "gris perle", "rouge subtil"],
+    "techniques": ["précision linéaire", "contour net", "mise en scène narrative", "équilibre rationnel", "virtuosité du dessin"],
+    "textures": ["dialogue", "élégance", "dualité"]
+  },
+  "Van Eyck": {
+    "couleurs": ["vert profond", "rouge rubis", "bleu saphir", "lumière dorée", "ton doux"],
+    "techniques": ["précision miniature", "texture raffinée", "lumière diffuse", "intimité mystique", "détail symbolique"],
+    "textures": ["protection", "douceur", "sacralité"]
+  },
+  "Ingres": {
+    "couleurs": ["jaune solaire", "bleu roi", "ivoire", "or pâle"],
+    "techniques": ["ligne majestueuse", "pureté du contour", "pose noble", "surface lisse", "beauté idéalisée"],
+    "textures": ["rayonnement", "gloire", "majesté"]
+  },
+  "Poussin": {
+    "couleurs": ["terre claire", "vert olivine", "bleu sobre", "ton pierre", "ciel lavé", "brun", "gris pierre", "vert sobre", "bleu froid"],
+    "techniques": ["construction géométrique", "équilibre classique", "détail ordonné", "paysage structuré", "narration symbolique", "ordre monumental", "scénographie sévère", "profondeur architecturale", "ligne austère"],
+    "textures": ["ordre", "rigueur", "pureté", "harmonie", "sagesse", "structure"]
+  },
+  "Raphaël": {
+    "couleurs": ["rose tendre", "vert doux", "azur", "or délicat"],
+    "techniques": ["grâce fluide", "harmonie parfaite", "lumière céleste", "symétrie", "douceur"],
+    "textures": ["équilibre", "union", "paix"]
+  },
+  "Georges de La Tour": {
+    "couleurs": ["rouge sang", "noir profond", "orange brûlé", "lumière de bougie"],
+    "techniques": ["clair-obscur intense", "scène nocturne", "tension dramatique", "visage méditatif", "aura de secret"],
+    "textures": ["transformation", "mystère", "feu intérieur"]
+  },
+  "Botticelli": {
+    "couleurs": ["or pâle", "turquoise", "vert clair", "rose lumineux", "blanc irisé"],
+    "techniques": ["ligne sinueuse", "arabesque raffinée", "légèreté éthérée", "composition mythologique", "atmosphère poétique"],
+    "textures": ["quête", "idéal", "élévation"]
+  },
+  "Leonard de Vinci": {
+    "couleurs": ["bleu céleste", "vert argenté", "gris perle", "reflet iridescent"],
+    "techniques": ["sfumato", "invention visionnaire", "croquis", "visage androgyne", "jeu de transparence", "aérien"],
+    "textures": ["innovation", "intuition", "génie"]
+  },
+  "Vermeer": {
+    "couleurs": ["bleu nuit", "jaune doux", "nacre", "lumière laiteuse", "camaïeu apaisant"],
+    "techniques": ["lumière intime", "composition paisible", "atmosphère silencieuse", "délicatesse des textures"],
+    "textures": ["rêve", "compassion", "mystère"]
+  }
+}
