@@ -1,10 +1,122 @@
-fastapi
-uvicorn
-flatlib
-requests
-python-dotenv
-rich
-pillow
-pyswisseph
-openai
+# 🌟 AstroSource - Requirements pour Expérimentation Complète
+# Généré depuis l'environnement Boogy avec 113 packages
+# Date: 19 octobre 2025
 
+# ================================
+# 🤖 INTELLIGENCE ARTIFICIELLE
+# ================================
+# Stable Diffusion et génération d'images
+torch==2.8.0
+torchvision==0.23.0
+torchaudio==2.8.0
+torchsde==0.2.6
+diffusers==0.29.1
+transformers==4.55.0
+accelerate==1.10.0
+compel==2.1.1
+
+# ComfyUI - Interface de génération d'images IA
+comfyui-embedded-docs==0.2.4
+comfyui_frontend_package==1.24.4
+comfyui_workflow_templates==0.1.52
+
+# ================================
+# 🌐 WEB & API
+# ================================
+# Backend FastAPI
+fastapi==0.116.1
+uvicorn==0.35.0
+pydantic==2.10.1
+starlette==0.42.0
+
+# Requêtes HTTP et WebSockets
+requests==2.32.4
+aiohttp==3.12.15
+aiohappyeyeballs==2.6.1
+aiosignal==1.4.0
+websockets==13.1
+
+# ================================
+# 🔮 ASTROLOGIE
+# ================================
+# Swiss Ephemeris - Calculs astrologiques précis
+pyswisseph==2.8.0.post1
+
+# ================================
+# 📊 DATA SCIENCE & IMAGE
+# ================================
+# Manipulation de données
+numpy==2.2.6
+pandas==2.3.0
+
+# Traitement d'images
+pillow==11.3.0
+opencv-python==4.12.0.88
+
+# SVG et graphiques
+CairoSVG==2.8.2
+cairocffi==1.7.1
+cssselect2==0.8.0
+
+# ================================
+# 🛠️ UTILITAIRES SYSTÈME
+# ================================
+# Base Python
+setuptools==75.6.0
+pip==24.3.1
+wheel==0.45.1
+
+# Configuration et logging
+python-dotenv==1.0.1
+pyyaml==6.0.2
+click==8.2.1
+
+# Async et concurrence
+anyio==4.9.0
+asyncio==3.4.3
+
+# ================================
+# 🔧 DÉVELOPPEMENT
+# ================================
+# Base de données
+alembic==1.16.4
+sqlalchemy==2.0.36
+
+# Sérialisation
+msgpack==1.1.0
+orjson==3.10.12
+
+# Validation et types
+annotated-types==0.7.0
+attrs==25.3.0
+typing_extensions==4.12.2
+
+# ================================
+# 📦 PACKAGES COMPLETS (BACKUP)
+# ================================
+# Si vous préférez installer TOUT l'environnement Boogy :
+# Décommentez la ligne suivante et utilisez le fichier complet
+# -r requirements_complet.txt
+
+# ================================
+# 📝 NOTES D'INSTALLATION
+# ================================
+# 1. Installation recommandée (packages essentiels) :
+#    pip install -r requirements.txt
+#
+# 2. Installation complète (tous les packages expérimentaux) :
+#    pip install -r requirements_complet.txt
+#
+# 3. Pour GPU NVIDIA :
+#    pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+#
+# 4. Dépendances système (Ubuntu/Debian) :
+#    sudo apt-get install libcairo2-dev pkg-config python3-dev
+#
+# ================================
+# 🚀 DÉMARRAGE RAPIDE
+# ================================
+# python -m venv venv
+# source venv/bin/activate  # Linux/Mac
+# pip install -r requirements.txt
+# cd backend && python main.py
