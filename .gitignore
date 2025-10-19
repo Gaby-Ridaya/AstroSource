@@ -16,7 +16,7 @@ models/
 # Images et médias volumineux (garder seulement quelques exemples)
 app/data/
 resin/
-data/
+/data/ # Exclut seulement le dossier data racine, pas frontend/public/data
 archives/
 *.wav
 *.mp4

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Exemple de thème astral pour Marie Curie -->
+  <rect width="600" height="600" fill="#0a1833"/>
+
+  <!-- Cercle principal -->
+  <circle cx="300" cy="300" r="250" fill="none" stroke="#00cfff" stroke-width="2"/>
+  <circle cx="300" cy="300" r="200" fill="none" stroke="#00e5ee" stroke-width="1"/>
+  <circle cx="300" cy="300" r="150" fill="none" stroke="#bbb" stroke-width="1"/>
+
+  <!-- Signes du zodiaque -->
+  <text x="300" y="70" text-anchor="middle" fill="#ff0000" font-size="24" font-weight="bold">♈</text>
+  <text x="480" y="150" text-anchor="middle" fill="#00ff00" font-size="24" font-weight="bold">♉</text>
+  <text x="530" y="310" text-anchor="middle" fill="#00e5ee" font-size="24" font-weight="bold">♊</text>
+  <text x="480" y="460" text-anchor="middle" fill="#ffff00" font-size="24" font-weight="bold">♋</text>
+  <text x="300" y="540" text-anchor="middle" fill="#ff00ff" font-size="24" font-weight="bold">♌</text>
+  <text x="120" y="460" text-anchor="middle" fill="#00ffff" font-size="24" font-weight="bold">♍</text>
+  <text x="70" y="310" text-anchor="middle" fill="#ff8800" font-size="24" font-weight="bold">♎</text>
+  <text x="120" y="150" text-anchor="middle" fill="#00aaff" font-size="24" font-weight="bold">♏</text>
+
+  <!-- Planètes exemple -->
+  <circle cx="200" cy="150" r="8" fill="#ffcc00"/> <!-- Soleil -->
+  <text x="200" y="145" text-anchor="middle" fill="#ffcc00" font-size="16">☉</text>
+
+  <circle cx="400" cy="350" r="6" fill="#b0b0ff"/> <!-- Lune -->
+  <text x="400" y="345" text-anchor="middle" fill="#b0b0ff" font-size="14">☽</text>
+
+  <circle cx="320" cy="180" r="5" fill="#ffb6c1"/> <!-- Vénus -->
+  <text x="320" y="175" text-anchor="middle" fill="#ffb6c1" font-size="14">♀</text>
+
+  <!-- Titre -->
+  <text x="300" y="30" text-anchor="middle" fill="#00cfff" font-size="18" font-weight="bold">Marie Curie</text>
+  <text x="300" y="580" text-anchor="middle" fill="#bbb" font-size="12">7 Novembre 1867 - Varsovie, Pologne</text>
+</svg>
